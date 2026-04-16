@@ -1,5 +1,8 @@
 # Weather Trend Forecasting
 
+Demo part 1: [https://drive.google.com/file/d/1ysjQTp5aS_jB9d46BeWbDizxLXVXHFey/view?usp=sharing]
+Demo part 2: [https://drive.google.com/file/d/1YpRilqd-t0uIUNAYa0uGf-I-aTVuL1Bt/view?usp=sharing]
+
 Concise submission package for the PM Accelerator weather forecasting assessment.
 
 ## Project summary
