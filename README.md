@@ -22,22 +22,15 @@ Concise submission package for the PM Accelerator weather forecasting assessment
 - **Ensemble:** XGBoost ensemble forecasts were built and evaluated.
 - **Feature importance:** training-only XGBoost gain importance and feature selection.
 
-## Advanced requirements — not claimed in this submission
-- Climate analysis across regions
-- Environmental impact / air-quality analysis
-- Spatial analysis
-- Geographical-pattern analysis across countries/continents
-
 ## Final result
 - The strongest model in this notebook was **ARIMA(1,1,1)**.
 - ARIMA outperformed the tested XGBoost variants on the holdout window for this city-series setup.
 
 ## Repository contents
-- `notebook_DS.ipynb` — full analysis
-- `README.md` — summary and setup
-- `requirements.txt` — dependencies
-- `Weather_Forecasting_Report_Template.docx` — concise report template
-- `Weather_Forecasting_Presentation_Template.pptx` — concise presentation template
+- `notebook_DS.ipynb` : full analysis
+- `README.md` : summary and setup
+- `requirements.txt` : dependencies
+- `Weather_Forecasting_Report_Template.docx` : concise report template
 
 ## How to run
 ```bash
